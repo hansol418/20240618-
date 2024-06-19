@@ -1,0 +1,14 @@
+.paging-container {
+    display: flex;
+    justify-content: center; /* 가로 중앙정렬 */
+    align-items: center; /* 세로 중앙정렬 */
+    height: 10vh;
+    /* 부모 요소의 높이를 100%로 설정 *
+     },
+     .paging-content {
+       width: 10vw;
+       height: 100px;
+       background-color: lightblue;
+       text-align: center; /* 텍스트 가로 중앙정렬 */
+    /*line-height: 100px; !* 텍스트 세로 중앙정렬 *!*/
+}
